@@ -1,2 +1,4 @@
 Git Test01
-- 1005
+- 1006.1
+
+from clone1
