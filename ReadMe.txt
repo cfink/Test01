@@ -1,5 +1,5 @@
 Git Test01
-- 1007.1
+- 2012-07-17.001
 
 from clone1
 	from Clone1
